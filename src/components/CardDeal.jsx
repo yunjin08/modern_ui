@@ -5,6 +5,7 @@ import Button from "./Button";
 const CardDeal = () => {
   return (
     <section className={`${layout.section}`}>
+      <div className="absolute z-[0] w-[60%] h-[60%] -left-[50%]  rounded-full blue__gradient" />
       <div className={`${layout.sectionInfo}`}>
         <h2 className={`${styles.heading2}`}>
           {" "}
