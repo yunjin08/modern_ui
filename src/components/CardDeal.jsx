@@ -5,7 +5,6 @@ import Button from "./Button";
 const CardDeal = () => {
   return (
     <section className={`${layout.section}`}>
-      <div className="absolute z-[0] w-[60%] h-[60%] -right-[40%]  rounded-full blue__gradient" />
       <div className={`${layout.sectionInfo}`}>
         <h2 className={`${styles.heading2}`}>
           {" "}
@@ -20,7 +19,7 @@ const CardDeal = () => {
         <Button styles="mt-10" />
       </div>
       <div className={`${layout.sectionImg}`}>
-        <img src={card} alt="card" className="w-[100%] h-[100%]" />
+        <img src={card} alt="card" className="w-[100%] h-[100%] z-8" />
       </div>
     </section>
   );
