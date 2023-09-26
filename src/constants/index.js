@@ -1,7 +1,7 @@
 import {
   jed,
   glen,
-  people03,
+  levi,
   facebook,
   instagram,
   linkedin,
@@ -79,9 +79,9 @@ export const feedback = [
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "John Lester Escarlan",
+    name: "Danel Levi Bacarra",
     title: "Supporter",
-    img: people03,
+    img: levi,
   },
 ];
 

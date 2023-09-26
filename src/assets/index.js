@@ -22,7 +22,7 @@ import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 import jed from "./jed.png";
 import glen from "./glen.png";
-import people03 from "./people03.png";
+import levi from "./levi1.png";
 
 export {
   airbnb,
@@ -49,5 +49,5 @@ export {
   twitter,
   jed,
   glen,
-  people03,
+  levi,
 };
