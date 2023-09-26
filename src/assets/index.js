@@ -20,8 +20,8 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import people01 from "./people01.png";
-import people02 from "./people02.png";
+import jed from "./jed.png";
+import glen from "./glen.png";
 import people03 from "./people03.png";
 
 export {
@@ -47,7 +47,7 @@ export {
   instagram,
   linkedin,
   twitter,
-  people01,
-  people02,
+  jed,
+  glen,
   people03,
 };

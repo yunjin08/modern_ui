@@ -12,11 +12,13 @@ const Client = () => {
             key={client.id}
             className={`flex-1 ${styles.flexCenter} ss:min-w-[192px] min-w-[120px]`}
           >
-            <img
-              src={client.logo}
-              alt="client"
-              className="md:w-[192px] w-[150px] object-contain py-2 md:py-0"
-            />
+            <a href={client.link}>
+              <img
+                src={client.logo}
+                alt="client"
+                className="md:w-[192px] w-[150px] object-contain py-2 md:py-0 hover:scale-110 cursor-pointer"
+              />
+            </a>
           </div>
         ))}
       </div>

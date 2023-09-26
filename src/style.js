@@ -20,6 +20,7 @@ const styles = {
     "bg-clip-text text-transparent bg-gradient-to-r from-teal-700 via-teal-500 to-teal-300",
   bgGradient: "bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900",
   bg2Gradient: "bg-gradient-to-r from-teal-700 via-teal-500 to-teal-300",
+  bg3Gradient: "bg-gradient-to-r from-teal-600 via-teal-400 to-teal-200",
   pink__gradient: "bg-gradient-to-r from-gray-950 via-pink-600 to-gray-950",
 };
 

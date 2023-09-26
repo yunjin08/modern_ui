@@ -1,6 +1,6 @@
 import {
-  people01,
-  people02,
+  jed,
+  glen,
   people03,
   facebook,
   instagram,
@@ -63,24 +63,24 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+    name: "Jed Edison J. Donaire",
     title: "Founder & Leader",
-    img: people01,
+    img: jed,
   },
   {
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+    name: "Glenn Alan Leron",
+    title: "Statistician",
+    img: glen,
   },
   {
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    name: "John Lester Escarlan",
+    title: "Supporter",
     img: people03,
   },
 ];
@@ -196,17 +196,21 @@ export const clients = [
   {
     id: "client-1",
     logo: airbnb,
+    link: "https://www.airbnb.com/",
   },
   {
     id: "client-2",
     logo: binance,
+    link: "https://www.binance.com/",
   },
   {
     id: "client-3",
     logo: coinbase,
+    link: "https://www.coinbase.com/",
   },
   {
     id: "client-4",
     logo: dropbox,
+    link: "https://www.dropbox.com/",
   },
 ];
