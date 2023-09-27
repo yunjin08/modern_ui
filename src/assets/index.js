@@ -23,6 +23,7 @@ import twitter from "./twitter.svg";
 import jed from "./jed.png";
 import glen from "./glen.png";
 import levi from "./levi1.png";
+import sophia from "./sophia.png";
 
 export {
   airbnb,
@@ -50,4 +51,5 @@ export {
   jed,
   glen,
   levi,
+  sophia,
 };

@@ -2,6 +2,7 @@ import {
   jed,
   glen,
   levi,
+  sophia,
   facebook,
   instagram,
   linkedin,
@@ -80,8 +81,16 @@ export const feedback = [
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Danel Levi Bacarra",
-    title: "Supporter",
+    title: "Bank President",
     img: levi,
+  },
+  {
+    id: "feedback-4",
+    content:
+      "Celebrating the art of secure and swift financial transitions, where trust is currency.",
+    name: "Sophia Yvonne Mansueto",
+    title: "Chief Financial Officer",
+    img: sophia,
   },
 ];
 
